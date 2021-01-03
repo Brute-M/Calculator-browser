@@ -1,0 +1,48 @@
+body{
+    background-color: thistle;
+}
+
+
+h1{
+    color: white;
+    background-color: black;
+
+}
+
+.container{
+    text-align: center;
+
+}
+
+.calculator{
+    display: inline-block;
+    background-color: black;
+    border-radius: 20px;
+    position: relative;
+    top: 7vh;
+}
+table{
+    margin: auto;
+    padding: 10px 10px;
+}
+
+input{
+    font-size: 34px;
+    text-align: right;
+    border: 2px solid rebeccapurple;
+    border-radius: 25px;
+    outline: none;
+    padding: 8px 6px;
+
+}
+
+button{
+    font-size: 40px;
+    background: rebeccapurple;
+    color: white;
+    height: 72px;
+    width: 102px;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+}
